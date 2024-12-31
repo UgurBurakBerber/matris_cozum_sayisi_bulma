@@ -1,0 +1,1 @@
+Bu program, belirli sayıda kişiyi (n kişisi) ayakta duranlar ve oturanlar olmak üzere iki gruba ayırmayı amaçlayan bir geri izleme algoritmasıdır. Temelde, bir grup kişiyi ayakta ve oturan olarak yerleştirmenin tüm geçerli kombinasyonlarını bulur ve çözüm sayısını hesaplar.
